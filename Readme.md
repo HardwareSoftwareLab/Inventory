@@ -9,7 +9,7 @@
 # Electronics
 
 #### Arduino Mega
-![](images/arduino_mega.jpg =250x)
+![](images/arduino_mega.jpg)
 
 #### Arduino Uno
 ![](images/arduino_uno.jpg)
