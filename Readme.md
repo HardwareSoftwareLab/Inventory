@@ -27,7 +27,7 @@
 ![](images/digispark_micro.jpg)
 
 #### XBee
-![](images/xbee.jpg)
+![](images/XBee.jpg)
 
 #### DFRobot Motor Shield 
 ![](images/df-robot-motorshield.jpg)
