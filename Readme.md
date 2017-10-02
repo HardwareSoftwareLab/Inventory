@@ -38,6 +38,7 @@
 #### Relay Shields
 ![](images/relay_shield.jpg)
 ![](images/relay_module_sainsmart.jpg)
+![](images/relay_shield_8.jpg)
 
 #### Adafruit Motorshield
 ![](images/adafruit_motorshield.jpg)
