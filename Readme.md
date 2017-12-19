@@ -33,7 +33,7 @@
 ![](images/df-robot-motorshield.jpg)
 
 #### Adafruit Motor Shield v2
-![](images/adafruit_motorshield_v2)
+![](images/adafruit_motorshield_v2.jpg)
 
 #### Servo motor(s)
 ![](images/servo_motor_s1123.jpg)
