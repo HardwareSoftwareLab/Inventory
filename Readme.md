@@ -20,6 +20,9 @@
 #### Arduino Pro Mini
 ![](images/arduino_pro_mini.jpg)
 
+#### Arduino Nano
+![](images/arduino_nano.png)
+
 #### Arduino Program Downloader
 ![](images/arduino_program_downloader.jpg)
 
