@@ -123,6 +123,9 @@
 #### 125fps Webcam
 ![](images/playstation_eye.jpg)
 
+#### Heat Camera (for Android)
+![](images/heat_cam.png)
+
 #### High Gain Wireless USB Adapter (TL-WN822N)
 ![](images/Wireless_usb_adapter_TL-WN822N-01.jpg)
 
