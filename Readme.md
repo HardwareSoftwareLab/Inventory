@@ -98,8 +98,11 @@
 <!-- ----------------------------------------  -->
 # Hardware
 
-#### Raspberry Pi
+#### Raspberry Pi 1
 ![](images/RaspberryPi.jpg)
+
+#### Raspberry Pi 3 Model B+
+![](images/raspi3_b_plus.png)
 
 #### Raspberry Pi Infrared-Camera
 ![](images/raspberry-pi-infrared-camera.jpg)
