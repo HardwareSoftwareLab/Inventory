@@ -98,9 +98,6 @@
 #### Raspberry Pi
 ![](images/RaspberryPi.jpg)
 
-#### Orange-Pi-One
-![](images/Orange-Pi-One.jpg)
-
 #### Raspberry Pi Infrared-Camera
 ![](images/raspberry-pi-infrared-camera.jpg)
 
@@ -113,6 +110,9 @@
 
 #### USB Microscope
 ![](images/usb-microscope.jpg)
+
+#### USB Telescope
+![](images/usb_webcam_telescope.png)
 
 #### Webcam
 ![](images/webcam_c270_logitech.png)
