@@ -29,7 +29,10 @@
 #### Digispark Micro
 ![](images/digispark_micro.jpg)
 
-#### XBee
+#### Wemos D1
+![](images/wemos_d1.png)
+
+#### XBee (radio)
 ![](images/XBee.jpg)
 
 #### DFRobot Motor Shield 
@@ -107,6 +110,9 @@
 #### Raspberry Pi Infrared-Camera
 ![](images/raspberry-pi-infrared-camera.jpg)
 
+#### Raspberry Pi Camera
+![](images/pi_camera_v2.png)
+
 #### iPad Pro
 ![](images/ipad-pro.jpg)
 
@@ -137,9 +143,6 @@
 
 #### Barcode Scanner
 ![](images/barcode_scanner_401517pro.jpg)
-
-#### Sound Recorder
-![](images/Tascam_DR-05.jpg)
 
 #### Gopro
 ![](images/gopro.jpg)
