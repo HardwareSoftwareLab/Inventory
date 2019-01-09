@@ -177,3 +177,7 @@
 
 #### Wii Remote Plus
 ![](images/wii_remote_plus.jpeg)
+
+#### Wacom Tablet
+![](images/wacom_intuos_pro.png)
+
