@@ -153,9 +153,6 @@
 #### Hanging Scale
 ![](images/hs-30.jpg)
 
-#### Google Cardboard
-![](images/google_cardboard.png)
-
 #### HTC Vive
 ![](images/htc_vive.jpg)
 
