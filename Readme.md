@@ -29,9 +29,6 @@
 #### Digispark Micro
 ![](images/digispark_micro.jpg)
 
-#### Wemos D1
-![](images/wemos_d1.png)
-
 #### XBee (radio)
 ![](images/XBee.jpg)
 
@@ -101,14 +98,8 @@
 <!-- ----------------------------------------  -->
 # Hardware
 
-#### Raspberry Pi 1
-![](images/RaspberryPi.jpg)
-
 #### Raspberry Pi 3 Model B+
 ![](images/raspi3_b_plus.png)
-
-#### Raspberry Pi Infrared-Camera
-![](images/raspberry-pi-infrared-camera.jpg)
 
 #### Raspberry Pi Camera
 ![](images/pi_camera_v2.png)
@@ -138,17 +129,11 @@
 #### High Gain Wireless USB Adapter (TL-WN822N)
 ![](images/Wireless_usb_adapter_TL-WN822N-01.jpg)
 
-#### OTT TV Box
-![](images/ott_tv_box.jpg)
-
 #### Barcode Scanner
 ![](images/barcode_scanner_401517pro.jpg)
 
 #### Gopro
 ![](images/gopro.jpg)
-
-#### Phantom 4 Drone
-![](images/phantom_4.png)
 
 #### Hanging Scale
 ![](images/hs-30.jpg)
@@ -156,12 +141,6 @@
 #### HTC Vive
 ![](images/htc_vive.jpg)
 
-#### PCB Printer
-![](images/voltera_pcb_printer.png)
-![](images/voltera_pcb.png)
-
-#### Powerbank 19V 18000ma
-![](images/powerbank_19v_18000ma.png)
 
 <!-- ----------------------------------------  -->
 ## Human Interfaces
@@ -171,9 +150,6 @@
 
 #### Leap Motion
 ![](images/leap-motion.jpg)
-
-#### Wii Remote Plus
-![](images/wii_remote_plus.jpeg)
 
 #### Wacom Tablet
 ![](images/wacom_intuos_pro.png)
